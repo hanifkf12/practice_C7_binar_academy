@@ -1,0 +1,23 @@
+{
+  "nama" : "Hanif",
+  "alamat" : "Jogja",
+  "umur" : 22,
+  "hobi" : [
+    {
+      "nama" : "Main Game",
+      "intensitas": "Setiap Hari"
+    },
+    {
+      "nama" : "Tidur",
+      "intensitas": "Setiap Hari"
+    },
+    {
+      "nama" : "Makan",
+      "intensitas": "Setiap Hari"
+    },
+    {
+      "nama" : "Oalahraga",
+      "intensitas": "Setiap Hari"
+    }
+  ]
+}
